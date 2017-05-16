@@ -16,4 +16,4 @@ regression for a particular quantile.
 
 plot.coef: Makes plots for each quantile of the coefficient values from quantile 
 regression. Makes both a normal plot and a plot adjusted so that values within 2 SE's
-are whited out by assigning them a value NA.
+are assigned a value of NA.
